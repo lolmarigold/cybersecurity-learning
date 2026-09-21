@@ -55,7 +55,7 @@ An IDS monitors systems or networks and alerts analysts to potentially malicious
 Incident response involves following established procedures to investigate and respond to security incidents.
 
 Example:
-Alert → Investigate → Identify the problem → Respond/Remediate
+Alert > Investigate > Identify the problem > Respond/Remediate
 
 ## Digital Forensics
 
